@@ -111,6 +111,6 @@ No diretório do projeto, você pode executar:
 Este projeto foi desenvolvido por **Luiz Henrique Schmidt Gonçalves de Assis**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luiz%20Assis-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/luiz-henrique-de-assis/) <!-- Opcional: Adicione seu link do LinkedIn -->
-[![GitHub](https://img.shields.io/badge/GitHub-luizhsg7-181717?style=flat&logo=github)](https://github.com/luizhsgassis) <!-- Opcional: Adicione seu link do GitHub -->
+[![GitHub](https://img.shields.io/badge/GitHub-luizhsgassis-181717?style=flat&logo=github)](https://github.com/luizhsgassis) <!-- Opcional: Adicione seu link do GitHub -->
 
 Para dúvidas ou sugestões, entre em contato pelo e-mail: `luizhsgassis.dev@gmail.com`.
